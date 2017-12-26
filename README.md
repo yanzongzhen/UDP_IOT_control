@@ -20,4 +20,4 @@
 -w, -windowed, -noconsole 使用窗口，无控制台
 
 python pyinstaller.py [option] yourprograme.py
-  usually you can use -F [/option]
+  usually you can use -F 
